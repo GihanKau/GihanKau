@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gihan</h1>
-<h3 align="center">A Bioinformatics graduate from the University of Colombo, Faculty of Science</h3>
+<h3 align="center">A Bioinformatics graduate from the Faculty of Science, University of Colombo</h3>
 <p align="left">
 </p>
 
