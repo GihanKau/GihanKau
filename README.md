@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gihan</h1>
-<h3 align="center">A Bioinformatics graduate from the Faculty of Science, University of Colombo</h3>
+<h3 align="center">A Bioinformatics graduate with a dedicated focus on human genetics, driven by a profound interest in the realms of human aging and cancer therapeutics</h3>
 <p align="left">
 </p>
 
